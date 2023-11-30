@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['256705513532', 'Boyfriend', true],
+  ['256761565724', 'Morice Designz', true],
   ['256707521863', 'MORICEUG', true], 
   [''] 
 ] //Number of owners
@@ -52,14 +52,14 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'MORICEUG'
 global.premium = 'true'
-global.packname = 'Ernest' 
-global.author = '@Boyfriend' 
+global.packname = 'MoriceDesignz' 
+global.author = '@MoriceUg' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@guntalkcity'
-global.fgpyp = 'https://youtube.com/@guntalkcity'
+global.fgyt = 'https://youtube.com/@moricedesignzltd'
+global.fgpyp = 'https://youtube.com/@moricedesignzltd'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
